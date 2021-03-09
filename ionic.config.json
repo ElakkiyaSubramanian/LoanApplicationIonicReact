@@ -1,0 +1,7 @@
+{
+  "name": "loan",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
